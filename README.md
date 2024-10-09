@@ -3,7 +3,7 @@ Hotspotshield-cli for NixOS
 
 This is not a fully implemented nixpkg.
 
-I started to package the hotspotshield_1.0.7_amd64.deb for NixOS and got it working for the most part until I realize that the hotspotshield-cli is for premium hotspotshield accounts only. All that hard work for nothing. But here you go anyways:
+I started to package the hotspotshield_1.0.7_amd64.deb for NixOS and got it working for the most part until I realized that the hotspotshield-cli is for premium hotspotshield accounts only. All that hard work for nothing. But here you go anyways:
 
 Heres how I got it working:
 
