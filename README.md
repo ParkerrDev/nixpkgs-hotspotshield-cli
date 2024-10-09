@@ -11,6 +11,6 @@ Heres how I got it working:
 
 `cd nixpkgs-hotspotshield-cli`
 
-`nix build`
+`nix-build`
 
 `env LD_LIBRARY_PATH=./result/lib steam-run ./result/bin/hotspotshield`
